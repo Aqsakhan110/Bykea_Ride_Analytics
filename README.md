@@ -1,10 +1,7 @@
-# 🚖 Bykea Ride Analytics — Power BI Dashboard & Data Analysis
+ Bykea Ride Analytics — Power BI Dashboard & Data Analysis
 
 A end-to-end data analytics project analyzing **153,000 ride-booking records** from Bykea's Karachi operations (2024), covering booking volume, revenue, cancellations, payment behavior, and service quality — built with **Power Query, DAX, and Power BI**.
 
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Tool](https://img.shields.io/badge/tool-Power%20BI-yellow)
-![Records](https://img.shields.io/badge/records-153%2C000-blue)
 
 ---
 
@@ -28,7 +25,7 @@ The raw dataset was intentionally messy (duplicate IDs, inconsistent casing, mal
 | `rideBookings.csv` | Raw source dataset (153,000 rows) |
 | `Bykea_Ride_Analytics_Report.pdf` | Full written analysis report with charts, findings & recommendations |
 | `README.md` | This file |
-
+| 'Bykea Ride Analysis png'
 ---
 
 ## 🧹 Data Cleaning (Power Query)
@@ -91,6 +88,6 @@ Full findings, charts, and recommendations are in [`Bykea_Ride_Analytics_Report.
 ## 👤 Author
 
 **Aqsa Ayub**
-Data Analyst | Power BI & Excel
-[LinkedIn](#) · [Fiverr](#)
+Data Analyst | Power BI 
+
 
